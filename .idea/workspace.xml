@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3478d1e2-0bf4-41d8-835f-31a8663c28eb" name="Changes" comment="dfasdasd">
+    <list default="true" id="3478d1e2-0bf4-41d8-835f-31a8663c28eb" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VinheiraApp-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VinheiraApp-main/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/WineDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/WineDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/ConnectionFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +16,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/VinheiraApp-main" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -131,13 +135,30 @@
       <option name="project" value="LOCAL" />
       <updated>1775866339862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1775867923050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775867923050</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1775868084970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775868084970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fujita" />
     <MESSAGE value="dfasdasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfasdasd" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

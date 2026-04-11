@@ -6,19 +6,21 @@ import java.sql.SQLException;
 
 public class ConnectionFactory {
 
-    private static final String URL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL";
-    private static final String USER = "RM557351";
-    private static final String PASSWORD = "020205";
-
     public static Connection getConnection() {
-        try {
-            Class.forName("oracle.jdbc.driver.OracleDriver");
+        String url      = System.getenv("DB_URL");
+        String user     = System.getenv("DB_USER");
+        String password = System.getenv("DB_PASSWORD");
 
-            return DriverManager.getConnection(URL, USER, PASSWORD);
-        } catch (ClassNotFoundException e) {
-            throw new RuntimeException("Oracle Driver not found!", e);
+        if (url == null || user == null || password == null) {
+            throw new RuntimeException(
+                    "Variáveis de ambiente DB_URL, DB_USER ou DB_PASSWORD não configuradas."
+            );
+        }
+
+        try {
+            return DriverManager.getConnection(url, user, password);
         } catch (SQLException e) {
-            throw new RuntimeException("Erro in database connection", e);
+            throw new RuntimeException("Erro na conexão com o banco de dados", e);
         }
     }
 }

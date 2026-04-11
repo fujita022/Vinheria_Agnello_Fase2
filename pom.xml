@@ -47,11 +47,11 @@
             <version>3.0.0</version>
         </dependency>
 
-        <!-- Oracle JDBC -->
+        <!-- Azur JDBC -->
         <dependency>
-            <groupId>com.oracle.database.jdbc</groupId>
-            <artifactId>ojdbc11</artifactId>
-            <version>23.3.0.23.09</version>
+            <groupId>com.microsoft.sqlserver</groupId>
+            <artifactId>mssql-jdbc</artifactId>
+            <version>12.6.1.jre11</version>
         </dependency>
 
         <dependency>

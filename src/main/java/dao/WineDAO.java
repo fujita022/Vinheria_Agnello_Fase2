@@ -11,7 +11,7 @@ public class WineDAO {
 
     public void insertWine(Wine wine) {
 
-        String sql = "INSERT INTO WINE (id, name, description, price, image) VALUES (WINE_SEQ.NEXTVAL, ?, ?, ?, ?)";
+        String sql = "INSERT INTO WINE (name, description, price, image) VALUES (?, ?, ?, ?)";
 
         try (Connection conn = ConnectionFactory.getConnection();
              PreparedStatement stmt = conn.prepareStatement(sql)) {

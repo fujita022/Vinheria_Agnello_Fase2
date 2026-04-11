@@ -18,7 +18,11 @@ public class ConnectionFactory {
         }
 
         try {
+            // Registra o driver explicitamente
+            Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             return DriverManager.getConnection(url, user, password);
+        } catch (ClassNotFoundException e) {
+            throw new RuntimeException("SQL Server Driver não encontrado!", e);
         } catch (SQLException e) {
             throw new RuntimeException("Erro na conexão com o banco de dados", e);
         }

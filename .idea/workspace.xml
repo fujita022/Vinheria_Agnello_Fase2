@@ -4,11 +4,126 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3478d1e2-0bf4-41d8-835f-31a8663c28eb" name="Changes" comment="commit">
+    <list default="true" id="98062ad2-faf3-4d15-8177-9057d1992973" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VinheiraApp-main/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/WineDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/WineDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/Catalina/localhost/ROOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/logs/catalina.2026-04-13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/logs/localhost_access_log.2026-04-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/create_users_table_azure.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/CartServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/RecommendationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/UserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/WineServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/OrderDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/WineDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/CartItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/Wine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/WinePreference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/service/RecommendationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/service/SommelierService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/CloudStorageUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/form-wine.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/list-wines.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/auth.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/list-wines.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/brut.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/cabernet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/cava.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/chardonnay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/chianti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/gewuerztraminerl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/grigio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/malbec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/merlot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/pinot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/prosecco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/riesling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/rose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/sangiovese.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/sauvignon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/syrah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/tempranillo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/vinho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/zinfandel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/CartServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/RecommendationServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/WineServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/dao/OrderDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/dao/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/dao/WineDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/CartItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/Wine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/WinePreference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/service/RecommendationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/service/SommelierService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/utils/CloudStorageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/utils/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,70 +131,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/VinheiraApp-main" />
-    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;fujita022&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "fujita022"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/fujita022/Vinheria_Agnello_Fase2.git&quot;,
-    &quot;accountId&quot;: &quot;5901dedb-aa83-44d2-9bcb-4224dffb98d5&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/fujita022/Vinheria_Agnello_Fase2.git",
+    "accountId": "5901dedb-aa83-44d2-9bcb-4224dffb98d5"
   }
-}</component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="3CBh8GYTC91C8wTfMrCulBsp9Mv" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3CKSOhH4fOSGxNR9dVTndMFxWcc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Smart Tomcat.Vinheria.executor&quot;: &quot;Run&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/erick/Desktop/VInheria Fase2&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/erick/Desktop/VInheria_Fase2/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="Vinheria" type="com.poratu.idea.plugins.tomcat">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="VInheria Fase2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vinheria-Tomcat" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
       <predefined_log_file enabled="true" id="Tomcat Access Log" />
       <predefined_log_file id="Tomcat Catalina Log" />
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="C:\Users\erick\Desktop\VInheria Fase2\VinheiraApp-main\.smarttomcat\VinheriaAppJSP\conf" />
-      <option name="contextPath" value="" />
-      <option name="docBase" value="C:\Users\erick\Desktop\VInheria Fase2\VinheiraApp-main\src\main\webapp" />
+      <option name="catalinaBase" value="C:\Users\erick\.SmartTomcat\VInheria Fase2\VinheriaAppJSP" />
+      <option name="contextPath" value="/VinheriaAppJSP" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
       <option name="extraClassPath" value="" />
       <option name="port" value="8082" />
       <option name="tomcatInfo">
@@ -105,74 +207,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3478d1e2-0bf4-41d8-835f-31a8663c28eb" name="Changes" comment="" />
-      <created>1775864710182</created>
+      <changelist id="98062ad2-faf3-4d15-8177-9057d1992973" name="Changes" comment="" />
+      <created>1776132739119</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1775864710182</updated>
+      <updated>1776132739119</updated>
     </task>
-    <task id="LOCAL-00001" summary="Fujita">
-      <option name="closed" value="true" />
-      <created>1775865901364</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1775865901364</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Fujitadd">
-      <option name="closed" value="true" />
-      <created>1775866048167</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1775866048167</updated>
-    </task>
-    <task id="LOCAL-00003" summary="dfasdasd">
-      <option name="closed" value="true" />
-      <created>1775866339862</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1775866339862</updated>
-    </task>
-    <task id="LOCAL-00004" summary="commit">
-      <option name="closed" value="true" />
-      <created>1775867923050</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1775867923050</updated>
-    </task>
-    <task id="LOCAL-00005" summary="commit">
-      <option name="closed" value="true" />
-      <created>1775868084970</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1775868084970</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fujita" />
-    <MESSAGE value="dfasdasd" />
-    <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../VInheria_Fase2/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

@@ -42,10 +42,8 @@ public class WineServlet extends HttpServlet {
             response.sendRedirect("wine?action=list");
 
         } else if (action.equals("edit")) {
-            // Abre o formulário preenchido para edição
             int id = Integer.parseInt(request.getParameter("id"));
             Wine wine = wineDAO.findById(id);
-
             if (wine != null) {
                 request.setAttribute("wine", wine);
                 request.getRequestDispatcher("/WEB-INF/form-wine.jsp").forward(request, response);
@@ -54,7 +52,6 @@ public class WineServlet extends HttpServlet {
             }
 
         } else if (action.equals("new")) {
-            // Abre o formulário vazio para novo cadastro
             request.getRequestDispatcher("/WEB-INF/form-wine.jsp").forward(request, response);
         }
     }
@@ -71,14 +68,13 @@ public class WineServlet extends HttpServlet {
         Part filePart = request.getPart("image");
         String fileName = filePart.getSubmittedFileName();
 
-        String uploadPath = getServletContext().getRealPath("/") + "images";
+        String uploadPath = "/home/site/wwwroot/images";
         File uploadDir = new File(uploadPath);
-        if (!uploadDir.exists()) uploadDir.mkdir();
+        if (!uploadDir.exists()) uploadDir.mkdirs();
 
         if (fileName != null && !fileName.isEmpty()) {
             filePart.write(uploadPath + File.separator + fileName);
-        } else if (idParam != null) {
-            // Se for edição e não subiu foto nova, mantém a antiga
+        } else if (idParam != null && !idParam.isEmpty()) {
             Wine oldWine = wineDAO.findById(Integer.parseInt(idParam));
             fileName = oldWine.getImage();
         }
@@ -87,7 +83,7 @@ public class WineServlet extends HttpServlet {
         wine.setName(name);
         wine.setDescription(description);
         wine.setPrice(price);
-        wine.setImage(fileName); // Salva o nome do arquivo no banco
+        wine.setImage(fileName);
 
         if (idParam != null && !idParam.isEmpty() && !idParam.equals("0")) {
             wine.setId(Integer.parseInt(idParam));

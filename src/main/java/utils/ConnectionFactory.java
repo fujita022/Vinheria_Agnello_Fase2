@@ -18,7 +18,6 @@ public class ConnectionFactory {
         }
 
         try {
-            // Registra o driver explicitamente
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             return DriverManager.getConnection(url, user, password);
         } catch (ClassNotFoundException e) {

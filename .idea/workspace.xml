@@ -5,125 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98062ad2-faf3-4d15-8177-9057d1992973" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VInheria_Fase2/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.smarttomcat/VinheriaAppJSP/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/Catalina/localhost/ROOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/logs/catalina.2026-04-13.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/logs/localhost_access_log.2026-04-13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/.smarttomcat/VinheriaAppJSP/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/create_users_table_azure.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/CartServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/RecommendationServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/UserServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/controller/WineServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/OrderDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/UserDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/dao/WineDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/CartItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/Wine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/model/WinePreference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/service/RecommendationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/service/SommelierService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/CloudStorageUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/java/utils/ConnectionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/cart.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/footer.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/form-wine.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/header.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/list-wines.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/auth.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/cart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/css/list-wines.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/brut.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/cabernet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/cava.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/chardonnay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/chianti.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/gewuerztraminerl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/grigio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/malbec.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/merlot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/pinot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/prosecco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/riesling.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/rose.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/sangiovese.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/sauvignon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/syrah.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/tempranillo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/vinho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/images/zinfandel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/CartServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/RecommendationServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/UserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/controller/WineServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/dao/OrderDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/dao/UserDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/dao/WineDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/CartItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/Wine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/model/WinePreference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/service/RecommendationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/service/SommelierService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/utils/CloudStorageUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VinheiraApp-main/target/classes/utils/ConnectionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CartServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +27,13 @@
     "accountId": "5901dedb-aa83-44d2-9bcb-4224dffb98d5"
   }
 }]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 6
@@ -158,9 +47,15 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Smart Tomcat.Vinheria-Tomcat.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager">

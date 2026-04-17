@@ -8,7 +8,6 @@ import java.sql.*;
 public class UserDAO {
 
     public void insert(User user) {
-        // SQL Server: id is IDENTITY, so we omit it from the INSERT
         String sql = "INSERT INTO USERS (name, email, password) VALUES (?, ?, ?)";
 
         try (Connection conn = ConnectionFactory.getConnection();

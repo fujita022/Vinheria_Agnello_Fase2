@@ -19,7 +19,6 @@
 
     <dependencies>
 
-        <!-- Servlet API - provided pelo Tomcat em runtime -->
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
@@ -27,7 +26,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- JSP API - provided pelo Tomcat em runtime -->
         <dependency>
             <groupId>jakarta.servlet.jsp</groupId>
             <artifactId>jakarta.servlet.jsp-api</artifactId>
@@ -35,7 +33,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- JSTL -->
         <dependency>
             <groupId>org.glassfish.web</groupId>
             <artifactId>jakarta.servlet.jsp.jstl</artifactId>
@@ -47,7 +44,6 @@
             <version>3.0.0</version>
         </dependency>
 
-        <!-- Azur JDBC -->
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>

@@ -12,6 +12,7 @@
       <map />
     </option>
     <option name="extraClassPath" value="" />
+    <option name="port" value="8082" />
     <option name="tomcatInfo">
       <TomcatInfo>
         <option name="name" value="Apache Tomcat/11.0.21" />

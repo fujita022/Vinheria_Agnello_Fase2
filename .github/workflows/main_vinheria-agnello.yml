@@ -47,7 +47,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'vinheria-agnello-2026'
+          app-name: 'vinheria-agnello'
           slot-name: 'Production'
           package: '*.war'
           publish-profile: ${{ secrets.__publishingprofilesecretname__ }}

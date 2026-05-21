@@ -1,0 +1,28 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Vinheria-Tomcat" type="com.poratu.idea.plugins.tomcat" singleton="false">
+    <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+    <predefined_log_file enabled="true" id="Tomcat Access Log" />
+    <predefined_log_file id="Tomcat Catalina Log" />
+    <predefined_log_file id="Tomcat Manager Log" />
+    <predefined_log_file id="Tomcat Host Manager Log" />
+    <option name="catalinaBase" value="C:\Users\erick\.SmartTomcat\VInheria Fase2\VinheriaAppJSP" />
+    <option name="contextPath" value="/VinheriaAppJSP" />
+    <option name="docBase" value="C:\Users\erick\Desktop\VInheria Fase2\src\main\webapp" />
+    <option name="envOptions">
+      <map />
+    </option>
+    <option name="extraClassPath" value="" />
+    <option name="tomcatInfo">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/11.0.21" />
+        <option name="path" value="$PROJECT_DIR$/../../../../../Program Files/Apache Software Foundation/Tomcat 11.0" />
+        <option name="version" value="11.0.21.0" />
+      </TomcatInfo>
+    </option>
+    <option name="vmOptions" value="" />
+    <module name="VinheriaAppJSP" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

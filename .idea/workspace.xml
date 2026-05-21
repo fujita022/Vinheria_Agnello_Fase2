@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98062ad2-faf3-4d15-8177-9057d1992973" name="Changes" comment="commit-">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.run/Vinheria-Tomcat.run.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CartServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/OrderDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/OrderDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,33 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vinheria-Tomcat" type="com.poratu.idea.plugins.tomcat">
-      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
-      <predefined_log_file enabled="true" id="Tomcat Access Log" />
-      <predefined_log_file id="Tomcat Catalina Log" />
-      <predefined_log_file id="Tomcat Manager Log" />
-      <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="C:\Users\erick\.SmartTomcat\VInheria Fase2\VinheriaAppJSP" />
-      <option name="contextPath" value="/VinheriaAppJSP" />
-      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
-      <option name="envOptions">
-        <map />
-      </option>
-      <option name="extraClassPath" value="" />
-      <option name="port" value="8082" />
-      <option name="tomcatInfo">
-        <TomcatInfo>
-          <option name="name" value="Apache Tomcat/11.0.21" />
-          <option name="path" value="$PROJECT_DIR$/../../../../Program Files/Apache Software Foundation/Tomcat 11.0" />
-          <option name="version" value="11.0.21.0" />
-        </TomcatInfo>
-      </option>
-      <option name="vmOptions" value="" />
-      <module name="VinheriaAppJSP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -147,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779325053682</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit-">
+      <option name="closed" value="true" />
+      <created>1779328505770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779328505770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

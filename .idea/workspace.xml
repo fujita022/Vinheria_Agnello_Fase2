@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98062ad2-faf3-4d15-8177-9057d1992973" name="Changes" comment="" />
+    <list default="true" id="98062ad2-faf3-4d15-8177-9057d1992973" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main_vinheria-agnello.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main_vinheria-agnello-2026.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,10 +52,11 @@
     "RunOnceActivity.git.unshallow": "true",
     "Smart Tomcat.Vinheria-Tomcat.executor": "Run",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
